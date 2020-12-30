@@ -190,7 +190,7 @@ def foodBankListSelect():
 
     # If not food bank was selected give an error
     else:
-        invalidField.config(text="Please select a food bank for more information)")
+        invalidField.config(text="Please select a food bank for more information")
 
 #Create the windows
 window = Tk()
