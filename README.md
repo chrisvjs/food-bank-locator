@@ -1,7 +1,7 @@
 # food-bank-locator
 The following program locates nearby food banks within a given district, address, and radius in the United Kingdom. Errors will be given if the required fields are missing. If no postal code is given, then it displays all food banks in the inputted district. If a postal code is given, it will return the 10 closest food banks to you. The information that is displayed in the GUI after choosing a food bank is the name, address, email, link to the website, and the foodbanks needed/given food.
 
-SAMPLE INPUTS (Testing Purposes)
+SAMPLE INPUTS (Testing Purposes)  
 _With Postal Code_
 1. Country: England, District: Cornwall, PostalCode: TR18 3PZ
 2. Country: Northern Ireland, District: Ards and North Down, PostalCode: BT19 7QR
