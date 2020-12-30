@@ -8,9 +8,9 @@ _With Postal Code_
 3. Country: Scotland, District: Glasgow City, PostalCode: G51 1QL
 
 _No Postal Code_
-4. Country: England, District: Cornwall
-5. Country: Northern Ireland, District: Lisburn and Castlereagh
-5. Country: Wales, District: Swansea
+1. Country: England, District: Cornwall
+2. Country: Northern Ireland, District: Lisburn and Castlereagh
+3. Country: Wales, District: Swansea
 
 API Used:
 https://www.givefood.org.uk/api/
