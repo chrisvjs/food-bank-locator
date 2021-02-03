@@ -26,3 +26,8 @@ Information - https://www.onlinewebfonts.com/icon/521470
 Basket - http://simpleicon.com/basket.html  
 Globe - https://www.onlinewebfonts.com/icon/14174  
 Food Can - https://www.onlinewebfonts.com/icon/498354  
+
+Images:
+![Main Menu](mainmenu.PNG)
+![Select a food bank](foodbankselect.PNG)
+![View the food bank's information](foodbankinfo.PNG)
